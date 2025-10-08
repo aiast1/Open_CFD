@@ -1,12 +1,13 @@
 ﻿/**
  * @file OpenCFD.h
- * @brief OpenCFD - 2D Lattice Boltzmann CFD Simulation
+ * @brief OpenCFD - High-Performance 2D Lattice Boltzmann CFD Simulation
  * 
- * Main header file for the real-time CFD simulation using LBM and raylib visualization.
- * Demonstrates Karman vortex streets around circular obstacles.
+ * Main header file for the optimized real-time CFD simulation using LBM and raylib visualization.
+ * Demonstrates Karman vortex streets around circular obstacles with improved performance and
+ * visual quality fixes.
  * 
  * @author OpenCFD Project
- * @version 1.0.0
+ * @version 2.1.0
  */
 
 #pragma once
