@@ -1,8 +1,18 @@
-﻿// OpenCFD.h : Include file for standard system include files,
-// or project specific include files.
+﻿/**
+ * @file OpenCFD.h
+ * @brief OpenCFD - 2D Lattice Boltzmann CFD Simulation
+ * 
+ * Main header file for the real-time CFD simulation using LBM and raylib visualization.
+ * Demonstrates Karman vortex streets around circular obstacles.
+ * 
+ * @author OpenCFD Project
+ * @version 1.0.0
+ */
 
 #pragma once
 
 #include <iostream>
 
-// TODO: Reference additional headers your program requires here.
+// raylib graphics library (installed via vcpkg)
+// Provides window management, rendering, and texture operations
+#include <raylib.h>
